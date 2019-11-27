@@ -19,7 +19,7 @@ while perulangan:                                                     ## Looping
     if (input("Tambah data (y/t)? ") == 't'):                         ## Jika kita tidak menambahkan data ketik "t" untuk mengakhiri
         perulangan = False                                            ## Looping selesai
 
-print("\n             DAFTAR NILAI MAHASISWA (TI 19 A 1)                 ")
+print("\n          DAFTAR NILAI MAHASISWA (TI 19 A 1)              ")
 print("==================================================================")
 print("| No |     Nama     |    NIM    | Tugas |  UTS  |  UAS  |  Akhir |")
 print("==================================================================")

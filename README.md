@@ -29,3 +29,9 @@ for item in nilai:                                                            ##
     print("| {no:2d} | {nama:12s} | {nim:9s} | {nilaiTugas:5d} | {nilaiUts:5d} | {nilaiUas:5d} | {nilaiAkhir:6.2f} |"           ## Mengatur posisi tabel
           .format(no=i, nama=item[0], nim=item[1], nilaiTugas=item[2], nilaiUts=item[3], nilaiUas=item[4], nilaiAkhir=item[5])) ## Mengambil list yg sudah diinputkan didalam list nilai.
 print("==================================================================")
+
+
+
+![flowchart](https://github.com/hasanmaulana/TugasPraktikum5/blob/master/gambar/Flowchart%20data%20tugas5.png)
+![output1](https://github.com/hasanmaulana/TugasPraktikum5/blob/master/gambar/SS%20TUGAS%205%20pycharm%20out%201.png)
+![output2](https://github.com/hasanmaulana/TugasPraktikum5/blob/master/gambar/SS%20TUGAS%205%20pycharm%20out%202.png)
